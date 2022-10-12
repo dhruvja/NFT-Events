@@ -9,8 +9,8 @@ const navData = [
     href: "#home",
   },
   {
-    name: "About",
-    href: "#about",
+    name: "Register",
+    href: "registermodal",
   },
   {
     name: "Resources",
