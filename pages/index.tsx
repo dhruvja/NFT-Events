@@ -79,8 +79,6 @@ export default function index() {
       <Hero />
       <AboutSection />
       <MarketPlace />
-      <Community />
-      <Discover />
       <Footer />
     </>
   );

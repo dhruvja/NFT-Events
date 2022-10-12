@@ -29,14 +29,10 @@ export default function MarketPlace() {
             </div>
             <div className="max-w-2xl my-8 space-y-4  xl:col-span-2 text-left">
               <h2 className="text-5xl sm:text-[80px] font-bold">
-                Music NFT Marketplace
+                Events Showcase
               </h2>
               <p className="">
-                Create your first music NFTs with NFT market for musicians.
-                Create music and music videos just under the $1, the platform
-                works with BSC blockchain and supports mp4. With AirNFTs, you
-                are getting the control over your NFTs, no middle man cutting
-                your sales. Create, Buy, Sell and Earn with your music NFTs.
+                Book your ticket and get a unique NFT ticket for your event.
               </p>
 
               <button className="px-6 py-3  border-2 ml-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">

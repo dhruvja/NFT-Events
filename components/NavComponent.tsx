@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const navData = [
   {
-    name: "Marketplace",
+    name: "Home",
     href: "#home",
   },
   {
@@ -13,11 +13,11 @@ const navData = [
     href: "registermodal",
   },
   {
-    name: "Resources",
-    href: "#work",
+    name: "Events",
+    href: "#events",
   },
   {
-    name: "FAQ",
+    name: "Register/Login",
     href: "#contact",
   },
 ];
@@ -46,7 +46,7 @@ export default function NavComponent() {
             <div className="flex justify-start lg:w-0 lg:flex-1">
               <Link href="#home">
                 <h1 className="flex flex-col">
-                  Music <span>NFT Platform</span>
+                  MINTICKET
                 </h1>
               </Link>
             </div>

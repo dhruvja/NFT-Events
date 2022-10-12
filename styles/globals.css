@@ -7,3 +7,6 @@
     background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
 
 }
+::-webkit-scrollbar {
+    display: none;
+}

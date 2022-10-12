@@ -5,17 +5,14 @@ export default function Hero() {
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
         <div className="flex sm:mt-10 flex-col    text-left px-2   ">
           <h1 className="text-[55px] sm:text-[80px] font-bold leading-none ">
-            Music for NFT creators.
+            Enhance your Ticketing Experience
           </h1>
 
           <h1 className="text-4xl font-semibold flex flex-col my-4 ">
-            Digital Music for fans.
+            Tokenize your Tickets
           </h1>
           <p className="max-w-lg ">
-            Music NFTs will continue to revolutionize the way that artists and
-            fans create community together as we enter the upcoming year —
-            undoubtedly changing the trajectory of countless budding music
-            careers.{" "}
+            Minticket allows you to create events on Polygon and Solana and sell NFT tickets so you can token gate your event and also serve proof of attendance.{" "}
           </p>
           <div className="flex  items-center sm:justify-center mt-10 sm:m-0 lg:justify-start ">
             <>
