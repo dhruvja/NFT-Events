@@ -9,11 +9,16 @@ const navData = [
     href: "#home",
   },
   {
+    name: "Register",
+    //import register modal from components
+    href:"/RegisterModal",
+  },
+  {
     name: "Events",
     href: "#events",
   },
   {
-    name: "Register/Login",
+    name: "Login",
     href: "#contact",
   },
 ];
